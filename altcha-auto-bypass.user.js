@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ALTCHA Proof-of-Work Auto-Bypass
-// @namespace    https://github.com/chirag127/userscripts
+// @namespace    https://github.com/chirag127/altcha-auto-bypass-userscript
 // @version      1.0.0
 // @description  Clicks the ALTCHA checkbox inside its shadow root and calls widget.verify() so the local proof-of-work runs without you. ScriptCat switch, on by default, no solver API.
 // @author       chirag127
@@ -12,10 +12,10 @@
 // @grant        GM_log
 // @grant        CAT_registerMenuInput
 // @license      MIT
-// @homepageURL  https://github.com/chirag127/userscripts/tree/main/scripts/altcha-auto-bypass
-// @supportURL   https://github.com/chirag127/userscripts/issues
-// @updateURL    https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/altcha-auto-bypass/altcha-auto-bypass.user.js
-// @downloadURL  https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/altcha-auto-bypass/altcha-auto-bypass.user.js
+// @homepageURL  https://github.com/chirag127/altcha-auto-bypass-userscript
+// @supportURL   https://github.com/chirag127/altcha-auto-bypass-userscript/issues
+// @updateURL    https://raw.githubusercontent.com/chirag127/altcha-auto-bypass-userscript/main/altcha-auto-bypass.user.js
+// @downloadURL  https://raw.githubusercontent.com/chirag127/altcha-auto-bypass-userscript/main/altcha-auto-bypass.user.js
 // ==/UserScript==
 
 (() => {

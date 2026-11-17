@@ -6,7 +6,7 @@ Runs ALTCHA's local proof-of-work without you: clicks the widget checkbox in its
 
 ## Install
 
-[Click here to install in ScriptCat](https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/altcha-auto-bypass/altcha-auto-bypass.user.js)
+[Click here to install in ScriptCat](https://raw.githubusercontent.com/chirag127/altcha-auto-bypass-userscript/main/altcha-auto-bypass.user.js)
 
 ## How it works
 
